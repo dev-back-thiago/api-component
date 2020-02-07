@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "Banners Promocionais: Custom-Cards-Home",
+      "description1": "Podem ser configurados até 6 cards",
+      "description2": "Banners Promocionais: Custom-Cards-Home",
+      "description3": "Título card: 40 caracteres",
+      "description4": "Texto do botão card: 10 caracteres",
+      "description5": "URL card:Url de direcionamento",
+      "img": "https://www.livelo.com.br/file/general/cards_home.JPG",
+      "userId": "117503056857075976037",
+      "id": 2
+    },
+    {
+      "title": "Banner Principal Viagens: custom-banner-product-recommendation",
+      "img": "https://www.livelo.com.br/file/general/custom-banner-product.JPG",
+      "description1": "Podem ser configurados até 6 cards",
+      "description2": "Podem ser configurados até 6 cards",
+      "description3": "Banners Promocionais: Custom-Cards-Home",
+      "userId": "117503056857075976037",
+      "id": 3,
+      "description5": "Banners Promocionais: Custom-Cards-Home"
+    },
+    {
+      "title": "xss",
+      "description1": "xsx",
+      "description2": "xssx",
+      "description3": "xsxs",
+      "description4": "xsx",
+      "description5": "xsx",
+      "img": "xxx",
+      "userId": "117503056857075976037",
+      "id": 4
+    },
+    {
+      "title": "teste",
+      "description1": "sss",
+      "description2": "sss",
+      "img": "https://www.livelo.com.br/file/general/cards_home.JPG",
+      "userId": "116677705663873692702",
+      "id": 5
+    }
+  ]
+}
